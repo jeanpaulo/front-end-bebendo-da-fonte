@@ -17,6 +17,7 @@ Inicio, guias, dicas e "favoritos":
 * http://zenorocha.com/javascript-the-right-way/
 * https://github.com/braziljs/js-the-right-way
 * http://jstherightway.org/
+* https://github.com/jeanpaulo/cerebro
  
 ??
 * http://arquiteturadeinformacao.com/
