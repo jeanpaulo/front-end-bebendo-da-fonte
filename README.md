@@ -18,6 +18,8 @@ Inicio, guias, dicas e "favoritos":
 * https://github.com/braziljs/js-the-right-way
 * http://jstherightway.org/
 * https://github.com/jeanpaulo/cerebro
+* https://dev.opera.com/
+* https://developer.mozilla.org/pt-BR/
  
 ??
 * http://arquiteturadeinformacao.com/
