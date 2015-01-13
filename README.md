@@ -20,6 +20,7 @@ Inicio, guias, dicas e "favoritos":
 * https://github.com/cerebrobr/cerebro
 * https://dev.opera.com/
 * https://developer.mozilla.org/pt-BR/
+* http://www.webplatform.org/
  
 ??
 * http://arquiteturadeinformacao.com/
