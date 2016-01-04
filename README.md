@@ -104,6 +104,7 @@ Google Web Fundamentals
 * https://docs.google.com/a/google.com/spreadsheet/ccc?key=0Al2Vo3ZY-iTDdEhEbzBfSkRvTGlicWNTWlhBVjBjTUE&usp=drive_web#gid=0
 * https://developers.google.com/web/fundamentals/
 
+https://github.com/search?utf8=%E2%9C%93&q=guia+front-end
 
 Outras areas que podem ajudar (TI):
 * http://www.cederj.edu.br/videoaulas/
