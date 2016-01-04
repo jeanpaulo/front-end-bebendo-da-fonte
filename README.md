@@ -80,7 +80,7 @@ Links de vários guias e referências para Desenvolvimento Front-end
     * BrazilJS
     [...] 
 
-###### Não finalizar:
+###### Não finalizados:
     + Podcasts:
         * [EN] Front-End Five
         * [EN] 5 Minutes of Javascript
