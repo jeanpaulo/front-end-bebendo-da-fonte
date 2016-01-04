@@ -1,13 +1,20 @@
 # Front-end Bebendo da Fonte
-Desenvolvimento Front-end: Materiais, fontes, dicas, quem seguir, novidades, etc.
+Links de vários guias e referências para Desenvolvimento Front-end
+(Materiais, fontes, dicas, quem seguir, novidades, etc.)
 
-(readme inicial feito a pressa, para não perder futuros links, estes que serão analisados futuramente)
+"Como ser um Front End Dev":
+* http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/ [2015/02/24]
+* http://leandrooriente.com/guia-de-estudo-front-end/ [2013/10/15]
+* http://tableless.com.br/tornar-dev-front-end/ [2013/10/09]
+* http://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/ [2013/08/21]
+
+Recursos:
+* https://github.com/dypsilon/frontend-dev-bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 Inicio, guias, dicas e "favoritos":
-* http://leandrooriente.com/guia-de-estudo-front-end/
-* http://tableless.com.br/tornar-dev-front-end/
-* http://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/
-* https://github.com/dypsilon/frontend-dev-bookmarks
+* What exactly is a full-stack developer anyway? [2015/03/30] - https://developertea.com/episodes/9281 [EN]
+
 * https://github.com/h5bp/Front-end-Developer-Interview-Questions
 * http://bradfrost.github.io/this-is-responsive/resources.html
 * http://zofe.com.br/
