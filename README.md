@@ -2,7 +2,7 @@
 Links de vários guias e referências para Desenvolvimento Front-end
 (Materiais, fontes, dicas, quem seguir, novidades, etc.)
 
-+ #### "Como ser um Front End Dev":
+#### "Como ser um Front End Dev":
     * http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/ [2015/02/24]
     * http://leandrooriente.com/guia-de-estudo-front-end/ [2013/10/15]
     * http://tableless.com.br/tornar-dev-front-end/ [2013/10/09]
