@@ -2,79 +2,92 @@
 Links de vários guias e referências para Desenvolvimento Front-end
 (Materiais, fontes, dicas, quem seguir, novidades, etc.)
 
-#### Base:
-    * Documentações Oficiais HTML/CSS: http://www.w3.org/
-    * https://developer.mozilla.org/pt-BR/docs/Web/
-    * http://www.webplatform.org/ [Parece que não atualizam faz tempo]
+#### Base
+* Documentações Oficiais HTML/CSS: http://www.w3.org/
+* [Mozilla Developer Network (MDN)](https://developer.mozilla.org/pt-BR/docs/Web/)
+* [WebPlatform](http://www.webplatform.org/) [Parece que não atualizam faz tempo]
 
 #### Guias de 'como ser um Front End Dev':
-    * http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/ [2015/02/24]
-    * http://leandrooriente.com/guia-de-estudo-front-end/ [2013/10/15]
-    * http://tableless.com.br/tornar-dev-front-end/ [2013/10/09]
-    * http://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/ [2013/08/21]
+* [Como se tornar um desenvolvedor Front-End](http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/) por Willian Justen [24 Fev 2015]
+* [Guia de Estudo Front-End](http://leandrooriente.com/guia-de-estudo-front-end/) por Leandro Oriente [15 Out 2013]
+* [Como se tornar um dev front-end](http://tableless.com.br/tornar-dev-front-end/) por Diego Eis [09 Out 2013]
+* [Como me tornar um desenvolvedor front-end](http://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/) por Leandro Oriente [21 Ago 2013]
 
-#### Recursos:
-    * [EN] https://github.com/sindresorhus/awesome#front-end-development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-    * [EN] https://github.com/dypsilon/frontend-dev-bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-   * https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Portuguese
-   * https://github.com/leobetosouza/bons-front-enders
-   * https://github.com/cerebrobr/cerebro
-   * [EN] http://bradfrost.github.io/this-is-responsive/resources.html
+#### Recursos/Listas:
+* [EN] [Awesome Front-End Dev](https://github.com/sindresorhus/awesome#front-end-development) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+* [EN] [Front-End Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+* [Front-End Dev Questões para Entrevista](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Portuguese)
+* [Bons Front-Enders](https://github.com/leobetosouza/bons-front-enders)
+* [CerebroBR](https://github.com/cerebrobr/cerebro)
+* [EN] [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
 
 #### Podcasts (Desenvolvimento em Geral):
-    * http://devnaestrada.com.br/ 
-    * http://zofe.com.br/ []
-    * http://www.grokpodcast.com/ 
-    * [EN] https://developertea.com/
+* [DevNaEstrada](http://devnaestrada.com.br/)
+* [ZOFE](http://zofe.com.br/)
+* [GROK Podcast](http://www.grokpodcast.com/ )
+* [EN] [DeveloperTea](https://developertea.com/)
 
-#### Atualizando-se:
-    * https://uptodate.frontendrescue.org/pt/ - Versão Original Traduzida
-    * http://oswaldoacauan.github.io/keep-up-to-date-brazuca/ - Versão adaptada ao Brasil (e não apenas tradução)
-    * Weekly BrazilJS Videos - https://www.youtube.com/playlist?list=PLg2lQYZDBwOQDXKxy9yeqXG5njHbSHFFD
-    * Weekly BrazilJS Lista - http://us5.campaign-archive2.com/home/?u=77b6594f10bba05dcc722c80e&id=e6beed4270
-    * [EN] https://web-design-weekly.com/
-    * [EN] http://html5weekly.com/
-    * [EN] http://css-weekly.com/
-    * [EN] http://javascriptweekly.com/
+#### Mantendo-se atualizado:
+* https://uptodate.frontendrescue.org/pt/ - Versão Original Traduzida
+* http://oswaldoacauan.github.io/keep-up-to-date-brazuca/ - Versão adaptada ao Brasil (e não apenas tradução)
+* [Weekly BrazilJS Videos](https://www.youtube.com/playlist?list=PLg2lQYZDBwOQDXKxy9yeqXG5njHbSHFFD)
+* [Weekly BrazilJS Lista](http://us5.campaign-archive2.com/home/?u=77b6594f10bba05dcc722c80e&id=e6beed4270)
+* [EN] [Web Design Weekly](https://web-design-weekly.com/)
+* [EN] [HTML5 Weekly](http://html5weekly.com/)
+* [EN] [CSS Weekly](http://css-weekly.com/)
+* [EN] [Javascript Weekly](http://javascriptweekly.com/)
 
-#### Sites para seguir:
-    * http://www.tableless.com.br
-    * http://forum.tableless.com.br/
-    * http://www.imasters.com.br
-    * http://www.frontendbrasil.com.br/ [Desatualizado]
-    * http://loopinfinito.com.br/ [Desatualizado]
-    * http://arquiteturadeinformacao.com/
-    * http://tympanus.net/codrops/
-    * http://code.tutsplus.com/
-    * http://www.pinceladasdaweb.com.br/blog/
+#### Sites para seguir e aprender:
+* [Tableless](http://www.tableless.com.br)
+* [Maujor](http://www.maujor.com)
+* [Forum do Tableless](http://forum.tableless.com.br/)
+* [iMasters](http://www.imasters.com.br)
+* [Front-End Brasil](http://www.frontendbrasil.com.br/) [Desatualizado]
+* [LoopInfinito](http://loopinfinito.com.br/) [Desatualizado]
+* [Setup Loop Infinito](http://setup.loopinfinito.com.br/) - Coleção de entrevistas que mostra o setup (tools, workflows, ...) de brasileiros referência no mundo da Web
+* [Arquitetura da Informação](http://arquiteturadeinformacao.com/)
+* [Codrops](http://tympanus.net/codrops/)
+* [Tutsplus Code](http://code.tutsplus.com/)
+* [Pinceladas da Web](http://www.pinceladasdaweb.com.br/blog/)
 
-#### Javascript :
-    * http://www.vitorbritto.com.br/blog/iniciando-os-estudos-com-javascript/
-    * http://nomadev.com.br/estou-iniciando-em-javascript-por-onde-come%C3%A7o/
-    * * http://www.luiztiago.com/post/34760239764/quero-aprender-ou-conhecer-melhor-javascript-por
-    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-    * http://jstherightway.org/pt-br/
-    * https://github.com/sorrycc/awesome-javascript
-    * http://eloquentjavascript.net/
-    * http://wtfjs.com/
+#### Javascript:
+* [Iniciando os Estudos com Javascript](http://www.vitorbritto.com.br/blog/iniciando-os-estudos-com-javascript/) por Vitor Britto [28 Ago 2014]
+* [Estou Iniciando em JS. Por onde começo?](http://nomadev.com.br/estou-iniciando-em-javascript-por-onde-come%C3%A7o/) por Suissa [02 Jan 2014]
+* [Quero aprender JS melhor. Por onde começar?](http://www.luiztiago.com/post/34760239764/quero-aprender-ou-conhecer-melhor-javascript-por) por Luiz Tiago [01 Nov 2012]
+* [Re-Introdução ao Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/A_re-introduction_to_JavaScript) por MDN [Última Atualização: 03 Jan 2016]
+* [Javascript - A Forma Certa](http://jstherightway.org/pt-br/)
+* [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+* [Eloquent Javascript - the book](http://eloquentjavascript.net/)
+* [WTFJS](http://wtfjs.com/) - Não recomendado para quem está no começo, pois demonstra momentos irregulares e não-intuitivos do JS.
 
 #### Pessoas a seguir:     
-    * Brasil:
-        + http://setup.loopinfinito.com.br/
-        + Daniel Filho: https://br.linkedin.com/in/danielfilho  &  http://danielfilho.github.io/  &  http://setup.loopinfinito.com.br/daniel-filho/
-        + Zeno Rocha: http://zenorocha.com/  &  https://github.com/zenorocha
-        + Bernard de Luna: http://bernarddeluna.com/ 
-    * "Gringos"
-        + Paul Irish: http://www.paulirish.com/  &  https://github.com/paulirish
-        + Douglas Crockford: http://www.crockford.com/  &  http://javascript.crockford.com/  &  https://github.com/douglascrockford
-        + John Resig: http://ejohn.org/
-        + Nicholas C. Zakas: http://www.nczonline.net/
-        + Jeffrey Zeldman: http://www.zeldman.com/
-        + Eric Meyer: http://meyerweb.com/
-        + Lea Verou: http://lea.verou.me/
-        + Brendan Eich: https://brendaneich.com/
-        + Tantek Çelik: http://tantek.com/
-        + Marcel Duran: https://twitter.com/marcelduran  &  https://github.com/marcelduran (sempre em ingles mas é Brasileiro) - performance
+* Brasil:
+    + Daniel Filho: http://danielfilho.github.io/  &  [Setup LoopInfinito](http://setup.loopinfinito.com.br/daniel-filho/)  &  [@danielfilho](http://twitter.com/danielfilho)
+    + Zeno Rocha: http://zenorocha.com/  &  https://github.com/zenorocha  &  [@zenorocha](http://twitter.com/zenorocha)
+    + Bernard de Luna: http://bernarddeluna.com/  &  [Setup LoopInfinito](http://setup.loopinfinito.com.br/bernard-de-luna/)  &  [@bernarddeluna](http://twitter.com/bernarddeluna)
+    + Diego Eis: [@diegoeis](http://twitter.com/diegoeis)  &  [Tableless](http://www.tableless.com.br)
+    + Talita Pagani: [Setup LoopInfinito](http://setup.loopinfinito.com.br/talita-pagani/)  &  [Tableless](http://tableless.com.br/author/talita.cpb/)
+    + Richard D. Johansen: [@ridjohansen](https://twitter.com/ridjohansen)
+    + Davidson Fellipe: [fellipe.com](http://fellipe.com/)  &  [@davidsonfellipe](http://twitter.com/davidsonfellipe)
+    + Maurício Samy Silva (Maujor): [@maujor](http://twitter.com/maujor)  & [Site Maujor](http://www.maujor.com/index.php)  &  [Blog do Maujor](http://maujor.com/blog)
+    + Eduardo Shiota: [Setup LoopInfinito](http://setup.loopinfinito.com.br/eduardo-shiota/)  &  [eshiota.com](http://eshiota.com/)  &  [@shiota](http://twitter.com/shiota)
+    + Miller Medeiros: [Setup LoopInfinito](http://setup.loopinfinito.com.br/miller-medeiros/)  &  [Blog](http://blog.millermedeiros.com/)  &  [@millermedeiros](https://twitter.com/millermedeiros)
+    + Davi Ferreira: [Setup LoopInfinito](http://setup.loopinfinito.com.br/davi-ferreira/) & [Blog](http://www.daviferreira.com/) & [GitHub](https://github.com/daviferreira)
+    + Rafael Rinaldi: [Setup LoopInfinito](http://setup.loopinfinito.com.br/rafael-rinaldi/) & [Site](http://rinaldi.io/) & [@rafaelrinaldi](https://twitter.com/rafaelrinaldi)
+    + Felipe Moura: [Setup LoopInfinito](http://setup.loopinfinito.com.br/felipe-moura/) & [Site](http://felipenmoura.com/) & [@felipenmoura](https://twitter.com/felipenmoura)
+    + Ju Gonçalves: [Setup LoopInfinito](http://setup.loopinfinito.com.br/ju-goncalves/) & [Site](http://jugoncalv.es/) & [@cyberglot](https://twitter.com/cyberglot)
+    + Nando Vieira: [Setup LoopInfinito](http://setup.loopinfinito.com.br/nando-vieira/) & [Site](http://hellobits.com/) & [@fnando](http://twitter.com/fnando)]
+    + Marcel Duran: [@marcelduran](https://twitter.com/marcelduran)  &  [GitHub](https://github.com/marcelduran (sempre em ingles mas é Brasileiro)) -> performance
+* "Gringos"
+    + Paul Irish: [Blog](http://www.paulirish.com/)  &  [GitHub](https://github.com/paulirish)
+    + Douglas Crockford: [Site](http://www.crockford.com/)  & [Site/Javascript](http://javascript.crockford.com/)  &  [GitHub](https://github.com/douglascrockford)
+    + John Resig: [Blog](http://ejohn.org/)
+    + Nicholas C. Zakas: [Blog](http://www.nczonline.net/)
+    + Jeffrey Zeldman: [Blog](http://www.zeldman.com/)
+    + Eric Meyer: [Blog](http://meyerweb.com/)
+    + Lea Verou: [Blog](http://lea.verou.me/)
+    + Brendan Eich: [Blog](https://brendaneich.com/)
+    + Tantek Çelik: [Blog](http://tantek.com/)
 
 #### Eventos:
     * BrazilJS
