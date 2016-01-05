@@ -7,6 +7,13 @@ Links de vários guias e referências para Desenvolvimento Front-end
 * [Mozilla Developer Network (MDN)](https://developer.mozilla.org/pt-BR/docs/Web/)
 * [WebPlatform](http://www.webplatform.org/) [Parece que não atualizam faz tempo]
 
+#### Cursos Gratuitos
+* [EN] [Lista com sites de cursos gerais (MOOCs)](https://github.com/fffaraz/MOOC)
+* [EN] [The Odin Project](http://www.theodinproject.com/) - [HTML/CSS, RoR, JS/jQuery]
+* [EN] [freeCodeCamp](http://www.freecodecamp.com) - [HTML/CSS/JS, DB, Git/Github, NodeJS, React & D3.js]
+* [EN] [Bento IO](https://www.bento.io)
+
+
 #### Guias de 'como ser um Front End Dev':
 * [Como se tornar um desenvolvedor Front-End](http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/) por Willian Justen [24 Fev 2015]
 * [Guia de Estudo Front-End](http://leandrooriente.com/guia-de-estudo-front-end/) por Leandro Oriente [15 Out 2013]
@@ -43,6 +50,7 @@ Links de vários guias e referências para Desenvolvimento Front-end
 * [Maujor](http://www.maujor.com)
 * [Forum do Tableless](http://forum.tableless.com.br/)
 * [iMasters](http://www.imasters.com.br)
+* [EN] [Front-End Handbook](http://www.frontendhandbook.com/)
 * [Setup Loop Infinito](http://setup.loopinfinito.com.br/) - Coleção de entrevistas que mostra o setup (tools, workflows, ...) de brasileiros referência no mundo da Web
 * [Arquitetura da Informação](http://arquiteturadeinformacao.com/)
 * [Codrops](http://tympanus.net/codrops/)
