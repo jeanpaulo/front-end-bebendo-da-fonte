@@ -27,6 +27,7 @@ Links de vários guias e referências para Desenvolvimento Front-end
 * [Bons Front-Enders](https://github.com/leobetosouza/bons-front-enders)
 * [CerebroBR](https://github.com/cerebrobr/cerebro)
 * [EN] [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
+* [Livros de Programação Gratuitos](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md)
 
 #### Podcasts (Desenvolvimento em Geral):
 * [DevNaEstrada](http://devnaestrada.com.br/)
