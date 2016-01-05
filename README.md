@@ -20,6 +20,7 @@ Links de vários guias e referências para Desenvolvimento Front-end
 * [Como se tornar um dev front-end](http://tableless.com.br/tornar-dev-front-end/) por Diego Eis [09 Out 2013]
 * [Como me tornar um desenvolvedor front-end](http://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/) por Leandro Oriente [21 Ago 2013]
 
+
 #### Recursos/Listas:
 * [EN] [Awesome Front-End Dev](https://github.com/sindresorhus/awesome#front-end-development) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 * [EN] [Front-End Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -47,18 +48,22 @@ Links de vários guias e referências para Desenvolvimento Front-end
 * [EN] [Javascript Weekly](http://javascriptweekly.com/)
 
 #### Sites para seguir e aprender:
-* [Tableless](http://www.tableless.com.br)
-* [Maujor](http://www.maujor.com)
-* [Forum do Tableless](http://forum.tableless.com.br/)
-* [iMasters](http://www.imasters.com.br)
-* [EN] [Front-End Handbook](http://www.frontendhandbook.com/)
-* [Setup Loop Infinito](http://setup.loopinfinito.com.br/) - Coleção de entrevistas que mostra o setup (tools, workflows, ...) de brasileiros referência no mundo da Web
-* [Arquitetura da Informação](http://arquiteturadeinformacao.com/)
-* [Codrops](http://tympanus.net/codrops/)
-* [Tutsplus Code](http://code.tutsplus.com/)
-* [Pinceladas da Web](http://www.pinceladasdaweb.com.br/blog/)
-* [Front-End Brasil](http://www.frontendbrasil.com.br/) [Desatualizado]
-* [LoopInfinito](http://loopinfinito.com.br/) [Desatualizado]
+* Nacionais:
+    + [Tableless](http://www.tableless.com.br)
+    + [Maujor](http://www.maujor.com)
+    + [Forum do Tableless](http://forum.tableless.com.br/)
+    + [iMasters](http://www.imasters.com.br)
+    + [Setup Loop Infinito](http://setup.loopinfinito.com.br/) - Coleção de entrevistas que mostra o setup (tools, workflows, ...) de brasileiros referência no mundo da Web
+    + [Arquitetura da Informação](http://arquiteturadeinformacao.com/)
+    + [Pinceladas da Web](http://www.pinceladasdaweb.com.br/blog/)
+    + [Front-End Brasil](http://www.frontendbrasil.com.br/) [Desatualizado]
+    + [LoopInfinito](http://loopinfinito.com.br/) [Desatualizado]
+* Estrangeiros:
+    + [A List Apart](http://www.alistapart.com/)
+    + [Front-End Handbook](http://www.frontendhandbook.com/)
+    + [Codrops](http://tympanus.net/codrops/)
+    + [Tutsplus Code](http://code.tutsplus.com/)
+
 
 #### Javascript:
 * [Iniciando os Estudos com Javascript](http://www.vitorbritto.com.br/blog/iniciando-os-estudos-com-javascript/) por Vitor Britto [28 Ago 2014]
@@ -112,6 +117,10 @@ Links de vários guias e referências para Desenvolvimento Front-end
     + Sites seguir:
         * http://movethewebforward.org/pt-br/  //  http://www.paulirish.com/2011/moving-the-web-forward/  //  http://www.smashingmagazine.com/2011/11/30/the-smashing-guide-to-moving-the-web-forward-community/
 
+
+http://learn.shayhowe.com/html-css/
+http://learn.shayhowe.com/advanced-html-css/
+http://pt-br.learnlayout.com/
 
 
 * What exactly is a full-stack developer anyway? [2015/03/30] - https://developertea.com/episodes/9281 [EN]
