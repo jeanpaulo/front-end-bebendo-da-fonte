@@ -2,39 +2,40 @@
 Links de vários guias e referências para Desenvolvimento Front-end
 (Materiais, fontes, dicas, quem seguir, novidades, etc.)
 
-#### Base
-* Documentações Oficiais HTML/CSS: http://www.w3.org/
+#### Base/Início
+* [EN] Documentações Oficiais HTML/CSS: http://www.w3.org/
 * [Mozilla Developer Network (MDN)](https://developer.mozilla.org/pt-BR/docs/Web/)
-* [WebPlatform](http://www.webplatform.org/) [Parece que não atualizam faz tempo]
+* [EN] [Guia Basico HTML/CSS](http://learn.shayhowe.com/html-css/)
+* [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
+* [Guia de Referência HTML5](http://tableless.com.br/html5/)
+* [Dive Into HTML5](https://diveintohtml5.com.br/) - versão atualizada [EN]: [diveinto html5doctor](http://diveinto.html5doctor.com/)
+* [HTML Dog](http://www.htmldog.com/)
+* [HTML5 Doctor](http://html5doctor.com/)
 
-#### Cursos Gratuitos
-* [EN] [Lista com sites de cursos gerais (MOOCs)](https://github.com/fffaraz/MOOC)
-* [EN] [The Odin Project](http://www.theodinproject.com/) - [HTML/CSS, RoR, JS/jQuery]
-* [EN] [freeCodeCamp](http://www.freecodecamp.com) - [HTML/CSS/JS, DB, Git/Github, NodeJS, React & D3.js]
-* [EN] [Bento IO](https://www.bento.io)
-
+#### Sites para seguir e aprender:
+* Nacionais:
+    + [Tableless](http://www.tableless.com.br)
+    + [Maujor](http://www.maujor.com)
+    + [Forum do Tableless](http://forum.tableless.com.br/)
+    + [iMasters](http://www.imasters.com.br)
+    + [Setup Loop Infinito](http://setup.loopinfinito.com.br/) - Coleção de entrevistas que mostra o setup (tools, workflows, ...) de brasileiros referência no mundo da Web
+    + [Pinceladas da Web](http://www.pinceladasdaweb.com.br/blog/)
+    + [Arquitetura da Informação](http://arquiteturadeinformacao.com/)
+    + [LoopInfinito](http://loopinfinito.com.br/) [Desatualizado]
+    + [Front-End Brasil](http://www.frontendbrasil.com.br/) [Desatualizado]
+    + [WebPlatform](http://www.webplatform.org/) [Desatualizado]
+* Estrangeiros:
+    + [Smashing Magazine](http://www.smashingmagazine.com/)
+    + [A List Apart](http://www.alistapart.com/)
+    + [Front-End Handbook](http://www.frontendhandbook.com/)
+    + [Codrops](http://tympanus.net/codrops/)
+    + [Tutsplus Code](http://code.tutsplus.com/)
 
 #### Guias de 'como ser um Front End Dev':
 * [Como se tornar um desenvolvedor Front-End](http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/) por Willian Justen [24 Fev 2015]
 * [Guia de Estudo Front-End](http://leandrooriente.com/guia-de-estudo-front-end/) por Leandro Oriente [15 Out 2013]
 * [Como se tornar um dev front-end](http://tableless.com.br/tornar-dev-front-end/) por Diego Eis [09 Out 2013]
-* [Como me tornar um desenvolvedor front-end](http://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/) por Leandro Oriente [21 Ago 2013]
-
-
-#### Recursos/Listas:
-* [EN] [Awesome Front-End Dev](https://github.com/sindresorhus/awesome#front-end-development) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-* [EN] [Front-End Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-* [Front-End Dev Questões para Entrevista](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Portuguese)
-* [Bons Front-Enders](https://github.com/leobetosouza/bons-front-enders)
-* [CerebroBR](https://github.com/cerebrobr/cerebro)
-* [EN] [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
-* [Livros de Programação Gratuitos](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md)
-
-#### Podcasts (Desenvolvimento em Geral):
-* [DevNaEstrada](http://devnaestrada.com.br/)
-* [ZOFE](http://zofe.com.br/)
-* [GROK Podcast](http://www.grokpodcast.com/ )
-* [EN] [DeveloperTea](https://developertea.com/)
+* [Como me tornar um desenvolvedor front-end](http://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/) por Leandro Oriente [21 Ago 2013]    
 
 #### Mantendo-se atualizado:
 * https://uptodate.frontendrescue.org/pt/ - Versão Original Traduzida
@@ -47,33 +48,11 @@ Links de vários guias e referências para Desenvolvimento Front-end
 * [EN] [CSS Weekly](http://css-weekly.com/)
 * [EN] [Javascript Weekly](http://javascriptweekly.com/)
 
-#### Sites para seguir e aprender:
-* Nacionais:
-    + [Tableless](http://www.tableless.com.br)
-    + [Maujor](http://www.maujor.com)
-    + [Forum do Tableless](http://forum.tableless.com.br/)
-    + [iMasters](http://www.imasters.com.br)
-    + [Setup Loop Infinito](http://setup.loopinfinito.com.br/) - Coleção de entrevistas que mostra o setup (tools, workflows, ...) de brasileiros referência no mundo da Web
-    + [Arquitetura da Informação](http://arquiteturadeinformacao.com/)
-    + [Pinceladas da Web](http://www.pinceladasdaweb.com.br/blog/)
-    + [Front-End Brasil](http://www.frontendbrasil.com.br/) [Desatualizado]
-    + [LoopInfinito](http://loopinfinito.com.br/) [Desatualizado]
-* Estrangeiros:
-    + [A List Apart](http://www.alistapart.com/)
-    + [Front-End Handbook](http://www.frontendhandbook.com/)
-    + [Codrops](http://tympanus.net/codrops/)
-    + [Tutsplus Code](http://code.tutsplus.com/)
-
-
-#### Javascript:
-* [Iniciando os Estudos com Javascript](http://www.vitorbritto.com.br/blog/iniciando-os-estudos-com-javascript/) por Vitor Britto [28 Ago 2014]
-* [Estou Iniciando em JS. Por onde começo?](http://nomadev.com.br/estou-iniciando-em-javascript-por-onde-come%C3%A7o/) por Suissa [02 Jan 2014]
-* [Quero aprender JS melhor. Por onde começar?](http://www.luiztiago.com/post/34760239764/quero-aprender-ou-conhecer-melhor-javascript-por) por Luiz Tiago [01 Nov 2012]
-* [Re-Introdução ao Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/A_re-introduction_to_JavaScript) por MDN [Última Atualização: 03 Jan 2016]
-* [Javascript - A Forma Certa](http://jstherightway.org/pt-br/)
-* [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-* [Eloquent Javascript - the book](http://eloquentjavascript.net/)
-* [WTFJS](http://wtfjs.com/) - Não recomendado para quem está no começo, pois demonstra momentos irregulares e não-intuitivos do JS.
+#### Podcasts (Desenvolvimento em Geral):
+* [DevNaEstrada](http://devnaestrada.com.br/)
+* [ZOFE](http://zofe.com.br/)
+* [GROK Podcast](http://www.grokpodcast.com/ )
+* [EN] [DeveloperTea](https://developertea.com/)
 
 #### Pessoas a seguir:     
 * Brasil:
@@ -94,15 +73,52 @@ Links de vários guias e referências para Desenvolvimento Front-end
     + Talita Pagani: [Setup LoopInfinito](http://setup.loopinfinito.com.br/talita-pagani/)  &  [Tableless](http://tableless.com.br/author/talita.cpb/)
     + Zeno Rocha: http://zenorocha.com/  &  https://github.com/zenorocha  &  [@zenorocha](http://twitter.com/zenorocha)
 * "Gringos"
-    + Brendan Eich: [Blog](https://brendaneich.com/)
-    + Douglas Crockford: [Site](http://www.crockford.com/)  & [Site/Javascript](http://javascript.crockford.com/)  &  [GitHub](https://github.com/douglascrockford)
-    + Eric Meyer: [Blog](http://meyerweb.com/)
-    + Jeffrey Zeldman: [Blog](http://www.zeldman.com/)
-    + John Resig: [Blog](http://ejohn.org/)
-    + Lea Verou: [Blog](http://lea.verou.me/)
-    + Nicholas C. Zakas: [Blog](http://www.nczonline.net/)
-    + Paul Irish: [Blog](http://www.paulirish.com/)  &  [GitHub](https://github.com/paulirish)
-    + Tantek Çelik: [Blog](http://tantek.com/)
+    + Addy Osmani (Yeoman, MaterialDesignLite, Polymer, Chrome): [@addyosmani](https://twitter.com/addyosmani) & [GitHub](https://github.com/addyosmani) & [Site](https://addyosmani.com/)
+    + Brendan Eich (criador do Javascript): [Blog](https://brendaneich.com/)
+    + Douglas Crockford (grandes trabalhos em JS, popularizou o JSON): [Site](http://www.crockford.com/)  & [Site/Javascript](http://javascript.crockford.com/)  &  [GitHub](https://github.com/douglascrockford)
+    + Eric Meyer (Evangelista Padrões Web, CSS Reset): [Blog](http://meyerweb.com/)  &  [Github](https://github.com/meyerweb)
+    + Jeffrey Zeldman (Maior Evangelista Padrões Web, Criador "A List Apart"): [Blog](http://www.zeldman.com/)
+    + John Resig (Criador do jQuery): [Blog](http://ejohn.org/)
+    + Lea Verou (MIT, Especialista convidada no W3C CSS Working Group): [Blog](http://lea.verou.me/) & [GitHub](https://github.com/LeaVerou)
+    + Nicholas C. Zakas (Grandes artigos e livros, muito bem conceituado): [Blog](http://www.nczonline.net/) & [GitHub](https://github.com/nzakas)
+    + Paul Irish (Bower, Modernizr, Yeoman, H5BP, jQuery, ChromeDevTools..): [Blog](http://www.paulirish.com/)  &  [GitHub](https://github.com/paulirish) & [Stack Overflow](http://stackoverflow.com/users/89484/paul-irish)
+    + Tantek Çelik (Editor Especificações CSS, Mozilla, Technorati): [Blog](http://tantek.com/)
+
+#### Recursos/Listas:
+* [EN] [Awesome Front-End Dev](https://github.com/sindresorhus/awesome#front-end-development) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+* [EN] [Front-End Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+* [Front-End Dev Questões para Entrevista](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Portuguese)
+* [Bons Front-Enders](https://github.com/leobetosouza/bons-front-enders)
+* [CerebroBR](https://github.com/cerebrobr/cerebro)
+* [EN] [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
+* [Livros de Programação Gratuitos](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md)
+
+#### Javascript:
+* [Re-Introdução ao Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/A_re-introduction_to_JavaScript) por MDN [Última Atualização: 03 Jan 2016]
+* [Iniciando os Estudos com Javascript](http://www.vitorbritto.com.br/blog/iniciando-os-estudos-com-javascript/) por Vitor Britto [28 Ago 2014]
+* [Estou Iniciando em JS. Por onde começo?](http://nomadev.com.br/estou-iniciando-em-javascript-por-onde-come%C3%A7o/) por Suissa [02 Jan 2014]
+* [Quero aprender JS melhor. Por onde começar?](http://www.luiztiago.com/post/34760239764/quero-aprender-ou-conhecer-melhor-javascript-por) por Luiz Tiago [01 Nov 2012]
+* [Javascript - A Forma Certa](http://jstherightway.org/pt-br/)
+* [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+* [Eloquent Javascript - the book](http://eloquentjavascript.net/)
+* [WTFJS](http://wtfjs.com/) - Não recomendado para quem está no começo, pois demonstra momentos irregulares e não-intuitivos do JS.
+
+#### Cursos Gratuitos
+* [EN] [Lista com sites de cursos gerais (MOOCs)](https://github.com/fffaraz/MOOC)
+* [EN] [The Odin Project](http://www.theodinproject.com/) - [HTML/CSS, RoR, JS/jQuery]
+* [EN] [freeCodeCamp](http://www.freecodecamp.com) - [HTML/CSS/JS, DB, Git/Github, NodeJS, React & D3.js]
+* [EN] [Bento IO](https://www.bento.io)
+
+
+
+
+
+
+
+
+
+
+
 
 #### Eventos:
     * BrazilJS
@@ -116,11 +132,10 @@ Links de vários guias e referências para Desenvolvimento Front-end
         * [EN] The Web Ahead
     + Sites seguir:
         * http://movethewebforward.org/pt-br/  //  http://www.paulirish.com/2011/moving-the-web-forward/  //  http://www.smashingmagazine.com/2011/11/30/the-smashing-guide-to-moving-the-web-forward-community/
+        * 
 
 
-http://learn.shayhowe.com/html-css/
-http://learn.shayhowe.com/advanced-html-css/
-http://pt-br.learnlayout.com/
+
 
 
 * What exactly is a full-stack developer anyway? [2015/03/30] - https://developertea.com/episodes/9281 [EN]
