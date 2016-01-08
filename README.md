@@ -1,6 +1,6 @@
 # Front-end Bebendo da Fonte
 Links de vários guias e referências para Desenvolvimento Front-end
-(Materiais, fontes, dicas, quem seguir, novidades, etc.)
+(Materiais, fontes, dicas, quem seguir, novidades, etc)
 
 #### Base
 * Documentações Oficiais HTML/CSS: http://www.w3.org/
