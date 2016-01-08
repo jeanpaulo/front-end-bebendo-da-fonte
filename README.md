@@ -3,10 +3,11 @@ Links de vários guias e referências para Desenvolvimento Front-end
 (Materiais, fontes, dicas, quem seguir, novidades, etc)
 
 #### Base
-* Documentações Oficiais HTML/CSS: http://www.w3.org/
+* [EN] Documentações Oficiais HTML/CSS: http://www.w3.org/
 * [Mozilla Developer Network (MDN)](https://developer.mozilla.org/pt-BR/docs/Web/)
 * [WebPlatform](http://www.webplatform.org/) [Parece que não atualizam faz tempo]
 * [Move the Web forward](http://movethewebforward.org/pt-br/) - [Guia do Smashing Magazine](https://www.smashingmagazine.com/2011/11/the-smashing-guide-to-moving-the-web-forward-community/)
+* [Maujor](http://www.maujor.com)
 
 #### Cursos Gratuitos
 * [CECIERJ - Tecnologia em Sistemas de Computação(Curso Superior) - video-aulas](http://www.cederj.edu.br/videoaulas/)
@@ -54,7 +55,6 @@ Links de vários guias e referências para Desenvolvimento Front-end
 #### Sites para seguir e aprender:
 * Nacionais:
     + [Tableless](http://www.tableless.com.br)
-    + [Maujor](http://www.maujor.com)
     + [Forum do Tableless](http://forum.tableless.com.br/)
     + [iMasters](http://www.imasters.com.br)
     + [Setup Loop Infinito](http://setup.loopinfinito.com.br/) - Coleção de entrevistas que mostra o setup (tools, workflows, ...) de brasileiros referência no mundo da Web
@@ -78,6 +78,7 @@ Links de vários guias e referências para Desenvolvimento Front-end
 * [Javascript - A Forma Certa](http://jstherightway.org/pt-br/)
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 * [Eloquent Javascript - the book](http://eloquentjavascript.net/)
+* [Eloquent Javascrupt - PT-BR](https://github.com/braziljs/eloquente-javascript)
 * [WTFJS](http://wtfjs.com/) - Não recomendado para quem está no começo, pois demonstra momentos irregulares e não-intuitivos do JS.
 
 #### Pessoas a seguir:     
@@ -109,7 +110,8 @@ Links de vários guias e referências para Desenvolvimento Front-end
     + Paul Irish: [Blog](http://www.paulirish.com/)  &  [GitHub](https://github.com/paulirish)
     + Tantek Çelik: [Blog](http://tantek.com/)
 
-#### Eventos:
+#### Eventos/Meet-ups:
    + [BrazilJS](http://braziljs.com.br/)
    + [FrontinSampa](http://www.frontinsampa.com.br/)
    + [FrontinRio](http://frontinrio.com.br/)
+   * [FEMUG](https://github.com/braziljs/femug)
