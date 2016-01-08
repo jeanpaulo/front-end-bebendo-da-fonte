@@ -6,20 +6,20 @@ Links de vários guias e referências para Desenvolvimento Front-end
 * Documentações Oficiais HTML/CSS: http://www.w3.org/
 * [Mozilla Developer Network (MDN)](https://developer.mozilla.org/pt-BR/docs/Web/)
 * [WebPlatform](http://www.webplatform.org/) [Parece que não atualizam faz tempo]
+* [Move the Web forward](http://movethewebforward.org/pt-br/) - [Guia do Smashing Magazine](https://www.smashingmagazine.com/2011/11/the-smashing-guide-to-moving-the-web-forward-community/)
 
 #### Cursos Gratuitos
+* [CECIERJ - Tecnologia em Sistemas de Computação(Curso Superior) - video-aulas](http://www.cederj.edu.br/videoaulas/)
 * [EN] [Lista com sites de cursos gerais (MOOCs)](https://github.com/fffaraz/MOOC)
 * [EN] [The Odin Project](http://www.theodinproject.com/) - [HTML/CSS, RoR, JS/jQuery]
 * [EN] [freeCodeCamp](http://www.freecodecamp.com) - [HTML/CSS/JS, DB, Git/Github, NodeJS, React & D3.js]
 * [EN] [Bento IO](https://www.bento.io)
-
 
 #### Guias de 'como ser um Front End Dev':
 * [Como se tornar um desenvolvedor Front-End](http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/) por Willian Justen [24 Fev 2015]
 * [Guia de Estudo Front-End](http://leandrooriente.com/guia-de-estudo-front-end/) por Leandro Oriente [15 Out 2013]
 * [Como se tornar um dev front-end](http://tableless.com.br/tornar-dev-front-end/) por Diego Eis [09 Out 2013]
 * [Como me tornar um desenvolvedor front-end](http://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/) por Leandro Oriente [21 Ago 2013]
-
 
 #### Recursos/Listas:
 * [EN] [Awesome Front-End Dev](https://github.com/sindresorhus/awesome#front-end-development) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -35,6 +35,10 @@ Links de vários guias e referências para Desenvolvimento Front-end
 * [ZOFE](http://zofe.com.br/)
 * [GROK Podcast](http://www.grokpodcast.com/ )
 * [EN] [DeveloperTea](https://developertea.com/)
+* [EN] [Front-End Five](https://frontendfive.codeschool.com/)
+* [EN] [5 Minutes of Javascript](https://fivejs.codeschool.com/)
+* [EN] [The Big Web Show](http://5by5.tv/bigwebshow) - from *Jeffrey Zeldman*
+* [EN] [The Web Ahead](http://thewebahead.net/)
 
 #### Mantendo-se atualizado:
 * https://uptodate.frontendrescue.org/pt/ - Versão Original Traduzida
@@ -63,6 +67,7 @@ Links de vários guias e referências para Desenvolvimento Front-end
     + [Front-End Handbook](http://www.frontendhandbook.com/)
     + [Codrops](http://tympanus.net/codrops/)
     + [Tutsplus Code](http://code.tutsplus.com/)
+    + [Google Web Fundamentals](https://developers.google.com/web/fundamentals/) & [GitHub](https://github.com/google/WebFundamentals) & [Planilha](https://docs.google.com/a/google.com/spreadsheet/ccc?key=0Al2Vo3ZY-iTDdEhEbzBfSkRvTGlicWNTWlhBVjBjTUE&usp=drive_web#gid=0)
 
 
 #### Javascript:
@@ -77,8 +82,8 @@ Links de vários guias e referências para Desenvolvimento Front-end
 
 #### Pessoas a seguir:     
 * Brasil:
-    + Bernard de Luna: http://bernarddeluna.com/  &  [Setup LoopInfinito](http://setup.loopinfinito.com.br/bernard-de-luna/)  &  [@bernarddeluna](http://twitter.com/bernarddeluna)
-    + Daniel Filho: http://danielfilho.github.io/  &  [Setup LoopInfinito](http://setup.loopinfinito.com.br/daniel-filho/)  &  [@danielfilho](http://twitter.com/danielfilho)
+    + Bernard de Luna: [Site](http://bernarddeluna.com/)  &  [Setup LoopInfinito](http://setup.loopinfinito.com.br/bernard-de-luna/)  &  [@bernarddeluna](http://twitter.com/bernarddeluna)
+    + Daniel Filho: [GitHub](http://danielfilho.github.io/)  &  [Setup LoopInfinito](http://setup.loopinfinito.com.br/daniel-filho/)  &  [@danielfilho](http://twitter.com/danielfilho) & [Site](http://dnl.pw/) & [Slides](https://speakerdeck.com/danielfilho)
     + Davi Ferreira: [Setup LoopInfinito](http://setup.loopinfinito.com.br/davi-ferreira/) & [Blog](http://www.daviferreira.com/) & [GitHub](https://github.com/daviferreira)
     + Davidson Fellipe: [fellipe.com](http://fellipe.com/)  &  [@davidsonfellipe](http://twitter.com/davidsonfellipe)
     + Diego Eis: [@diegoeis](http://twitter.com/diegoeis)  &  [Tableless](http://www.tableless.com.br)
@@ -105,38 +110,6 @@ Links de vários guias e referências para Desenvolvimento Front-end
     + Tantek Çelik: [Blog](http://tantek.com/)
 
 #### Eventos:
-    * BrazilJS
-    [...] 
-
-###### Não finalizados:
-    + Podcasts:
-        * [EN] Front-End Five
-        * [EN] 5 Minutes of Javascript
-        * [EN] The Big Web Show
-        * [EN] The Web Ahead
-    + Sites seguir:
-        * http://movethewebforward.org/pt-br/  //  http://www.paulirish.com/2011/moving-the-web-forward/  //  http://www.smashingmagazine.com/2011/11/30/the-smashing-guide-to-moving-the-web-forward-community/
-
-
-http://learn.shayhowe.com/html-css/
-http://learn.shayhowe.com/advanced-html-css/
-http://pt-br.learnlayout.com/
-
-
-* What exactly is a full-stack developer anyway? [2015/03/30] - https://developertea.com/episodes/9281 [EN]
- 
-* http://simplebits.com/
-* https://twitter.com/simplebits
-* https://github.com/visionmedia
- 
-* http://imasters.com.br/desenvolvimento/melhores-de-2013-front-end/#
-
-Google Web Fundamentals
-* https://github.com/google/WebFundamentals
-* https://docs.google.com/a/google.com/spreadsheet/ccc?key=0Al2Vo3ZY-iTDdEhEbzBfSkRvTGlicWNTWlhBVjBjTUE&usp=drive_web#gid=0
-* https://developers.google.com/web/fundamentals/
-
-https://github.com/search?utf8=%E2%9C%93&q=guia+front-end
-
-Outras areas que podem ajudar (TI):
-* http://www.cederj.edu.br/videoaulas/
+   + [BrazilJS](http://braziljs.com.br/)
+   + [FrontinSampa](http://www.frontinsampa.com.br/)
+   + [FrontinRio](http://frontinrio.com.br/)
